@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "メロン記念日「赤いフリージア」Music Video",
+  "base_artist": "メロン記念日",
+  "createdAt": "2026-01-11T09:08:49.058162Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロン記念日のテーマ [ED]",
+      "artist": "メロン記念日",
+      "has_synced": false,
+      "path": "select/pl_01_メロン記念日のテーマ_[ED]_メロン記念日.txt"
+    }
+  ]
+}
